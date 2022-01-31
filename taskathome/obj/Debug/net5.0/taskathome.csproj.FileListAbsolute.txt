@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\code academy 23.01~\taskathome\obj\Debug\net5.0\taskathome.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code academy 23.01~\taskathome\obj\Debug\net5.0\taskathome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code academy 23.01~\taskathome\obj\Debug\net5.0\taskathome.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code academy 23.01~\taskathome\obj\Debug\net5.0\taskathome.AssemblyInfo.cs
+C:\Users\User\Desktop\code academy 23.01~\taskathome\obj\Debug\net5.0\taskathome.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code academy 23.01~\taskathome\bin\Debug\net5.0\taskathome.exe
+C:\Users\User\Desktop\code academy 23.01~\taskathome\bin\Debug\net5.0\taskathome.deps.json
+C:\Users\User\Desktop\code academy 23.01~\taskathome\bin\Debug\net5.0\taskathome.runtimeconfig.json
+C:\Users\User\Desktop\code academy 23.01~\taskathome\bin\Debug\net5.0\taskathome.runtimeconfig.dev.json
+C:\Users\User\Desktop\code academy 23.01~\taskathome\bin\Debug\net5.0\taskathome.dll
+C:\Users\User\Desktop\code academy 23.01~\taskathome\bin\Debug\net5.0\ref\taskathome.dll
+C:\Users\User\Desktop\code academy 23.01~\taskathome\bin\Debug\net5.0\taskathome.pdb
+C:\Users\User\Desktop\code academy 23.01~\taskathome\obj\Debug\net5.0\taskathome.dll
+C:\Users\User\Desktop\code academy 23.01~\taskathome\obj\Debug\net5.0\ref\taskathome.dll
+C:\Users\User\Desktop\code academy 23.01~\taskathome\obj\Debug\net5.0\taskathome.pdb
+C:\Users\User\Desktop\code academy 23.01~\taskathome\obj\Debug\net5.0\taskathome.genruntimeconfig.cache
